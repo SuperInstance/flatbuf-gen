@@ -1,9 +1,11 @@
 [package]
 name = "flatbuf-gen"
 version = "0.1.0"
-description = "A Rust library for Flatbuf Gen"
+description = "Flatbuf Gen — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/flatbuf-gen"
+repository = "https://github.com/SuperInstance/flatbuf-gen"
 edition = "2021"
+
+keywords = ["flatbuf-gen"]
 
 [dependencies]
